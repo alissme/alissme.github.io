@@ -2,7 +2,7 @@
 title: AL Blog
 SEOTitle: 你的博客 | AL Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: m17696269667@163.com
 description: "Every failure is leading towards success."
 keyword: "AL, AL Blog, 你的博客, ALISSME, iOS, Apple, iPhone"
 url: "http://alissme.github.io"          # your host, for absolute URL
@@ -11,19 +11,19 @@ github_repo: "https://github.com/alissme/alissme.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "I am a slow walker,but I never walk backwards."
+sidebar-avatar: /img/avatar-g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:    
+zhihu_username:     
+github_username:    
+facebook_username:  
+jianshu_username:   
+#twitter_username:  
 
 
 
